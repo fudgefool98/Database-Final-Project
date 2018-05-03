@@ -1,0 +1,20 @@
+body{
+    background-color: #C1C8E4;
+}
+
+.fandomdb:hover {
+    opacity: 0.9;
+    filter: alpha(opacity=100);
+}
+
+.navWords {
+    font-size: 12pt;
+}
+span {
+    font-size: 14px;
+    font-weight: 400;
+    color: #8860D0;
+}
+.navWords{
+    font-size: 16pt;
+}
