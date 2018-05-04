@@ -9,7 +9,7 @@
 FandomDB.com was created to be a place for authors to create works and have them displayed on the world wide web. It is a content hosting site where authors create articles based on templates. FandomDB is a platform which allows fans to follow their specific topic of interest(s). A Fandom is defined as, the fans of a particular person, team, fictional series, etc., regarded collectively as a community or subculture. Three templates have been developed, the types are article template, video template, and image collection. Authors are able to create Fandoms or add to existing Fandoms to contribute content to topics of their choosing. Articles can be speculation or fan fiction within the genre or anything else the author would like to create in the body of the article. Videos can be posted in the video template with an accompanying text body below to supplement the video content, either a caption, a description, or anything else the user would like to include, this is very flexible to what the author would like to display with their video content. The image collection template is geared towards those hosting comics and albums on FandomDB however the author is free to fill out the template to their liking.
 
 ### This is a version without image or video availability implemented site wide.
-##### Creating an article works on text posts only. Feel free to check out the final product May 9th 2018 at FandomDB.com
+##### As of 5/3/2018 Creating an article works on text posts only. Feel free to check out the final product May 9th 2018 at FandomDB.com
 
 ## Database Schema
 ### Article table discription
